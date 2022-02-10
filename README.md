@@ -4,7 +4,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="VitaliyShestakov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="VitaliyShestakov | LinkedIn" width="22px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" />][linkedin]
 [<img align="left" alt="VitaliyShestakov | VK" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/1200px-VK_Compact_Logo_%282021-present%29.svg.png" />][vk]
 
 <br />
