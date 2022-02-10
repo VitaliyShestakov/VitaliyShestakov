@@ -27,7 +27,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VitaliyShestakov&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitaliyShestakov&langs_count=8)](https://github.com/VitaliyShestakov/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitaliyShestakov&langs_count=5)
 
 
 
