@@ -7,7 +7,7 @@
 <img align="left" alt="VitaliyShestakov | VK" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" />
 <img align="left" alt="VitaliyShestakov | LinkedIn" width="22px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" />
 <img align="left" alt="VitaliyShestakov | VK" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/1200px-VK_Compact_Logo_%282021-present%29.svg.png" />
-<img align="left" alt="VitaliyShestakov | VK" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png" />
+[<img align="left" alt="VitaliyShestakov | VK" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png" />][telegram]
 
 
 <br />
@@ -30,5 +30,7 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/vlad-kalachev-ab87b312a/
+[linkedin]: https://www.linkedin.com/
 [vk]: https://vk.com/shestakov_vi
+[headhunter]: https://hh.kz/resume/b8481a77ff097d25020039ed1f7954616c6559
+[telegram]: https://t.me/Shestakov_V
