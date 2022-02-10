@@ -26,7 +26,7 @@
 <br />
 
 
-![VitaliyShestakov's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitaliyShestakov&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VitaliyShestakov&show_icons=true&theme=radical)
 
 
 
