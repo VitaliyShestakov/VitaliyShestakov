@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=ShestakovVitaliy)
+![](https://komarev.com/ghpvc/?username=VitaliyShestakov)
 
 ## I'm a Flutter Developer
 
@@ -21,7 +21,7 @@
 <br />
 <br />
 
-[![ShestakovVitaliy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shestakov Vitaliy)]
+[![ShestakovVitaliy's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitaliyShestakov)]
 
 [linkedin]: https://www.linkedin.com/in/vlad-kalachev-ab87b312a/
 [vk]: https://vk.com/shestakov_vi
