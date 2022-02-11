@@ -30,6 +30,6 @@
 
 
 
-[linkedin]: https://www.linkedin.com/
+[linkedin]: https://www.linkedin.com/in/%D0%B2%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B9-%D1%88%D0%B5%D1%81%D1%82%D0%B0%D0%BA%D0%BE%D0%B2-67a9b0228/
 [headhunter]: https://hh.kz/resume/b8481a77ff097d25020039ed1f7954616c6559
 [telegram]: https://t.me/Shestakov_V
